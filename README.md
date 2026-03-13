@@ -23,7 +23,7 @@ Ele foi criado para analisar dados de produtos de forma rápida e interativa, a 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Projeto-1.git
+git clone https://github.com/GuiRodrigues77/dashboard-produtos-python
 
 Entre na pasta do projeto:
 
